@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 #include "wave.h"		// user-defined header
 #include "screen.h"
 #include <signal.h>
@@ -33,3 +34,5 @@ int main(int argc, char *argv[]){
 	if(ans == 1) testTone(1000, 5);
 }
 
+=======
+>>>>>>> 91cb0ec3b14abe7b8834b822234010e75e17eac6
